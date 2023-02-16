@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.mdnice.com/user/3849/d420bcc0-5c4a-48ea-8df0-768aeeed8a52.png" width=700 />
+  <img src="https://files.mdnice.com/user/3849/d420bcc0-5c4a-48ea-8df0-768aeeed8a52.png" width=120 />
 </p>
 
 # wotero
